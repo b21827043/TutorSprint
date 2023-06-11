@@ -20,7 +20,7 @@ To Visit App:
 
 `localhost:3000/`
 
-### Server and Database:
+### Server and Database (Springboot and Mysql):
 Please note that Java must be installed on your computer.
 1. "Open the Eclipse application. Go to File > Import > Existing Maven Project and select /server/pom.xml."
 2. Edit the contents of application.properties in the /server/src/main/resources/ directory.
