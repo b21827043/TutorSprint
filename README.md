@@ -1,4 +1,9 @@
 ## Personalized Education - TutorSprint 
+![landingpage](screenshoots/image1.png)
+![registerpage](screenshoots/image2.png)
+![homepage](screenshoots/image3.png)
+![quizpage](screenshoots/image.png)
+
 Below, you can find information on how to run the application.
 
 ## Installation and Setup Instructions
